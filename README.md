@@ -1,4 +1,9 @@
-﻿# DE-IDentification (de-id) 🌐🔏
+> **Projeto:** Aplicação de algoritmos de compartilhamento de segredos e anonimização de dados para adequação de sistemas à LGPD - Edital FAPESC 27/2021.
+
+![LGPD](https://img.shields.io/badge/-LGPD-blue)
+![FAPESC](https://img.shields.io/badge/Edital-FAPESC%2027%2F2021-green)
+ 
+ # DE-IDentification (de-id) 🌐🔏
 
 Este serviço web Django utiliza a biblioteca secstor-anonymizer_lib para oferecer anonimização de dados como um serviço, contribuindo na conformidade com a Lei Geral de Proteção de Dados (LGPD).
 
